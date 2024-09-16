@@ -9,6 +9,10 @@ DOMAIN-SUFFIX,hao123.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,xj12
+DOMAIN-KEYWORD,kaspersky
+DOMAIN-KEYWORD,immersivetranslate
+DOMAIN-KEYWORD,bose
+
 
 # 端口号匹配
 DST-PORT,8096
