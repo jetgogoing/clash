@@ -1,4 +1,9 @@
-# 代理补充列表
+# 端口号匹配
+DST-PORT,6881
+DST-PORT,6882
+
+SRC-PORT,6881
+SRC-PORT,6882
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,sierracharts.com
