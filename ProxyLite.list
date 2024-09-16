@@ -1,6 +1,8 @@
 # 代理补充列表
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,sierracharts.com
+DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,barchart.com
 DOMAIN-SUFFIX,flash-sec.com
 DOMAIN-SUFFIX,simplywall.st
@@ -16,7 +18,6 @@ DOMAIN-SUFFIX,aastocks.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,sl886.com
-DOMAIN-SUFFIX,sierracharts.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
