@@ -5,6 +5,13 @@ DST-PORT,6882
 SRC-PORT,6881
 SRC-PORT,6882
 
+# 域名关键字匹配
+DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,sierra
+DOMAIN-KEYWORD,cloudnx
+DOMAIN-KEYWORD,mvipcloud
+DOMAIN-KEYWORD,disclosuretracker
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,sierracharts.com
 DOMAIN-SUFFIX,tradingview.com
@@ -24,19 +31,11 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,sl886.com
 DOMAIN-SUFFIX,tjzymob.com
-
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,sierra
-DOMAIN-KEYWORD,cloudnx
-DOMAIN-KEYWORD,mvipcloud
+DOMAIN-SUFFIX,d3js.org
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
-IP-CIDR,202.163.7.44/443,no-resolve
-IP-CIDR,183.60.8.74/80,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
