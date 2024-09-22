@@ -14,8 +14,10 @@ DOMAIN-KEYWORD,cloudnx
 DOMAIN-KEYWORD,mvipcloud
 DOMAIN-KEYWORD,disclosuretracker
 DOMAIN-KEYWORD,interactivebrokers
+DOMAIN-KEYWORD,sec
 
 # 域名后缀匹配
+OMAIN-SUFFIX,sec.gov
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,sierracharts.com
 DOMAIN-SUFFIX,tradingview.com
