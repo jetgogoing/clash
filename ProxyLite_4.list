@@ -19,6 +19,8 @@ DOMAIN-KEYWORD,fiverr.com
 
 # 域名后缀匹配
 OMAIN-SUFFIX,sec.gov
+DOMAIN-SUFFIX,seekingalpha.com
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,sierracharts.com
 DOMAIN-SUFFIX,tradingview.com
