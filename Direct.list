@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,kaspersky.com
+DOMAIN-SUFFIX,kaspersky.com
+DOMAIN-SUFFIX,disclosuretracker.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -13,6 +15,7 @@ DOMAIN-KEYWORD,xj12
 DOMAIN-KEYWORD,kaspersky
 DOMAIN-KEYWORD,immersivetranslate
 DOMAIN-KEYWORD,bose
+DOMAIN-KEYWORD,disclosuretracker
 
 
 # 端口号匹配
