@@ -20,7 +20,7 @@ DOMAIN-KEYWORD,rithmic
 
 
 # 域名后缀匹配
-OMAIN-SUFFIX,sec.gov
+DOMAIN-SUFFIX,sec.gov
 DOMAIN-SUFFIX,seekingalpha.com
 DOMAIN-SUFFIX,rithmic.com
 DOMAIN-SUFFIX,grok.com
