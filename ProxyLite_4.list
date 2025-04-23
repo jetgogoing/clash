@@ -17,7 +17,8 @@ DOMAIN-KEYWORD,sec
 DOMAIN-KEYWORD,fiverr.com
 DOMAIN-KEYWORD,notebooklm
 DOMAIN-KEYWORD,rithmic
-
+DOMAIN-KEYWORD,bookmap
+DOMAIN-KEYWORD,volumetools
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,sec.gov
