@@ -8,6 +8,7 @@ SRC-PORT,6882
 SRC-PORT,45454
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,disclosuretracker
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,sierra
 DOMAIN-KEYWORD,cloudnx
@@ -21,6 +22,7 @@ DOMAIN-KEYWORD,bookmap
 DOMAIN-KEYWORD,volumetools
 
 # 域名后缀匹配
+disclosuretracker.com
 DOMAIN-SUFFIX,sec.gov
 DOMAIN-SUFFIX,seekingalpha.com
 DOMAIN-SUFFIX,rithmic.com
