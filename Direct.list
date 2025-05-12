@@ -1,19 +1,22 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
-# 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,kaspersky.com
-DOMAIN-SUFFIX,kaspersky.com
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,disclosuretracker
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,xj12
 DOMAIN-KEYWORD,kaspersky
 DOMAIN-KEYWORD,immersivetranslate
 DOMAIN-KEYWORD,bose
+
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,disclosuretracker.com
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,kaspersky.com
 
 
 # 端口号匹配
