@@ -9,7 +9,6 @@ SRC-PORT,6882
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,sierra
 DOMAIN-KEYWORD,cloudnx
 DOMAIN-KEYWORD,mvipcloud
 DOMAIN-KEYWORD,interactivebrokers
