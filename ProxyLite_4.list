@@ -20,10 +20,8 @@ DOMAIN-KEYWORD,notebooklm
 # 域名后缀匹配
 DOMAIN-SUFFIX,sec.gov
 DOMAIN-SUFFIX,seekingalpha.com
-DOMAIN-SUFFIX,rithmic.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,interactivebrokers.com
-DOMAIN-SUFFIX,sierracharts.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,barchart.com
 DOMAIN-SUFFIX,flash-sec.com
